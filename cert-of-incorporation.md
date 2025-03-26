@@ -23,3 +23,10 @@ The undersigned incorporator hereby certifies as follows:
 10. This corporation may, in accordance with the authority granted by DGCL Section 141, adopt Bylaws that establish and modify the voting power of different classes of directors, including giving certain classes of directors greater voting power (e.g. a veto power), in a manner that deviates from the provisions set forth in DGCL 141(j).
 
 11. Only the members of this corporation may adopt, amend, or repeal the Bylaws of this corporation. The required vote of the members shall be as provided in the Bylaws of this corporation.
+
+
+By: Chad Whitacre, Incorporator
+
+Date: 2/14/2025
+
+
