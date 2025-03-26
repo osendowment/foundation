@@ -14,11 +14,7 @@ The undersigned incorporator hereby certifies as follows:
 
 6. This corporation shall have one or more members, and the conditions of membership shall be stated in the Bylaws.
 
-7. The name and mailing address of the incorporator are as follows: 
-
-Chad Whitacre
-74 E Glenwood Ave Unit #5756
-Smyrna, DE 19977
+7. The name and mailing address of the incorporator are as follows: Chad Whitacre 74 E Glenwood Ave Unit #5756 Smyrna, DE 19977
 
 8. The personal liability of the directors and any persons performing the duties of directors of this corporation is hereby eliminated or limited to the fullest extent permitted by DGCL Section 102(b)(7) as the same may be hereafter amended and supplemented.
 
@@ -26,6 +22,4 @@ Smyrna, DE 19977
 
 10. This corporation may, in accordance with the authority granted by DGCL Section 141, adopt Bylaws that establish and modify the voting power of different classes of directors, including giving certain classes of directors greater voting power (e.g. a veto power), in a manner that deviates from the provisions set forth in DGCL 141(j).
 
-11. Only the members of this corporation may adopt, amend, or repeal the Bylaws of this corporation. The required vote of the members shall be as provided in the Bylaws of this corporation..
-
-
+11. Only the members of this corporation may adopt, amend, or repeal the Bylaws of this corporation. The required vote of the members shall be as provided in the Bylaws of this corporation.
