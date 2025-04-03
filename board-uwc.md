@@ -49,12 +49,9 @@ The directors of Open Source Endowment Foundation, a Delaware nonprofit nonstock
 
 Dated: 4/1/2025   
 Konstantin Vinogradov, Director  
-E-mail: konstantin@endowment.dev  
 
 Dated: 3/31/2025  
 Chad Whitacre, Director  
-E-mail: chad@zetaweb.com  
 
 Dated: 3/31/2025  
 Maxim Konovalov, Director  
-E-mail: maxim.konovalov@gmail.com  
