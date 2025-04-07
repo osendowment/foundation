@@ -1,4 +1,4 @@
-# Open Source Endowment Fundation
+# Open Source Endowment Foundation
 
 ## Ways to donate
 
