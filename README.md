@@ -2,7 +2,7 @@
 
 ## Ways to donate
 
-### US Bank Wire (USD)
+### US Wire (USD) — [Mercury bank](https://mercury.com)
 
 - Beneficiary Name: Open Source Endowment Foundation
 - Beneficiary Address: 1209 Orange Street, Wilmington, DE 19801
@@ -14,7 +14,7 @@
 
 Fees: 0% 
 
-### International Bank Wire (USD)
+### International Bank Wire (USD) — [Mercury bank](https://mercury.com)
 
 - Beneficiary Name: Open Source Endowment Foundation
 - Beneficiary Address: 1209 Orange Street, Wilmington, DE 19801
