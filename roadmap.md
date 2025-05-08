@@ -101,9 +101,9 @@ Key tasks to legally implement key OSE principles, ensure its community-driven g
 
 | Target | Status 
 | ------------- | :----:  
-| [US nonprofit corporation](https://github.com/osendowment/foundation/blob/main/docs/cert-of-incorporation.md) |✅
-| [Bylaws & key entity docs](https://github.com/osendowment/foundation/tree/main/docs)|✅  
-| [Initial board of directors](https://github.com/osendowment/foundation/blob/main/docs/board-uwc.md)|✅
+| [US nonprofit corporation](https://github.com/osendowment/foundation/blob/main/acts-of-incorporation/cert-of-incorporation.md) |✅
+| [Bylaws & key entity docs](https://github.com/osendowment/foundation/tree/main/acts-of-incorporation)|✅  
+| [Initial board of directors](https://github.com/osendowment/foundation/blob/main/acts-of-incorporation/board-uwc.md)|✅
 | 501(c)3 charity status|⏳
 | [Members' repo (private)](https://github.com/oseendowment/foundation) | ⏳
 | Membership policy|⏳
