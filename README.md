@@ -1,8 +1,11 @@
 # Open Source Endowment Foundation
 
-## Target
+## What is the OSE?
+|🌱 Sustainable|🔗 Systemic|🚀 Scalable|
+|-|-|-|
+|Ensures long-term, predictable cash flow, independent of economic and political volatility|Prioritizes critical yet underfunded open source packages, rather than large/popular ones or specific supply chains| Operates as an efficient next-gen charity designed for scale, not a like a typical non-profit foundation|
 
-## Model 
+## How it works
 
 ## Team
 
@@ -10,7 +13,7 @@
 
 ## FAQ
 
-## Donate to the endowment fund
+## Donate to the Open Source Endowment
 
 **Donate via a USD wire from a US/global bank to our account (Mercury Bank, no fees):**
 - Beneficiary Name: Open Source Endowment Foundation
