@@ -10,6 +10,11 @@
     <th>Q1 2026</th>
   </tr>
   <tr>
+    <td></td>
+    <td colspan="3">Private phase</td>
+    <td colspan="2">Public phase</td>
+  </tr>
+  <tr>
     <td>
       <b>Governance</b>
     </td>
