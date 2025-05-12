@@ -17,7 +17,7 @@ providing maintainers of critical open source software with a source of funding 
 
 - **🌱 Sustainable**: Ensures long-term, predictable cash flow, independent of economic and political volatility
 - **🔗 Systemic**: Prioritizes critical yet underfunded OSS, rather than large/popular ones or specific supply chains
-- **🚀 Scalable**: Operates as an efficient next-gen charity designed for scale, not a like a typical non-profit foundation
+- **🚀 Scalable**: Operates as an efficient next-gen charity designed for scale, not a like a typical nonprofit
 
 OSE is the world's first endowment exclusively dedicated to open source. It is co-founded by an inclusive community of tech founders, executives, investors, and software engineers who care about OSS.﻿﻿ For now, we continue to accept [co-founding individual donors](https://github.com/osendowment/foundation/issues/1). 
 
@@ -41,16 +41,14 @@ Individual donors who contribute at least $1000 to the endowment fund qualify as
 Our core team is made up of the board of directors and the executive director, as well as experienced advisors that the board consults with. According to our bylaws, all directors must personally become members and have skin in the game.
 
 * **[Konstantin Vinogradov](https://www.linkedin.com/in/kvinogradov/) (Board Member, Chairman)**
-  * General Partner at VC firm [Runa Capital](https://runacap.com/) ($0.5B+ AUM), where he focuses on early-stage investing in OSS &
-    dev-focused startups
-  * Co-founded a next-gen endowment (UBI for students), which grew from $50K to $600K+ raised from 150+ donors in 8 countries
-  * Has been publishing the [ROSS Index](https://runacap.com/ross-index/), a data-driven rating of top open-source startups, every quarter since 2020
+    * General Partner at VC firm [Runa Capital](https://runacap.com/) ($0.5B+ AUM), where he focuses on investing in OSS & tools
+    * Co-founded an endowment, which grew from $50K to $600K+ raised from 150+ donors in 8 countries
+    * Has been publishing the [ROSS Index](https://runacap.com/ross-index/), a data-driven rating of top OSS startups, every quarter since 2020
 
 * **[Chad Whitacre](https://www.linkedin.com/in/chadwhitacre/) (Board Member, Secretary)**
-  * Head of Open Source at [Sentry](https://sentry.io/), the leading developer-first application monitoring platform ($3B+
+  * Head of Open Source at [Sentry](https://sentry.io/), the leading developer-first app monitoring platform ($3B+
     valuation)
-  * Leader of the [Open Source Pledge](https://opensourcepledge.com/), a fast-growing cultural initiative to get companies to pay the OSS
-    maintainers they depend on
+  * Leader of the [Open Source Pledge](https://opensourcepledge.com/), a cultural project to get companies to pay the OSS maintainers
   * Founder of open source funding pioneer [Gratipay](https://gratipay.com/) (2012–2018)
 
 * **[Maxim Konovalov](https://www.linkedin.com/in/maxim/) (Board Member, Treasurer)**
@@ -58,14 +56,13 @@ Our core team is made up of the board of directors and the executive director, a
   * Former VP Engineering at [F5](https://www.f5.com/). Seasoned supporter of [FreeBSD](https://www.freebsd.org/)
 
 * **[Jonathan Starr](https://www.linkedin.com/in/jonathan-starr-b04032284/) (Executive Director)**
-  * Program Manager at [NumFOCUS](https://numfocus.org/), a nonprofit foundation supporting OSS used for science and research
-    (like [Pandas](https://pandas.pydata.org/) and [NumPy](https://numpy.org/))
-  * Co-Founder of [SciOS](https://www.scios.tech/), a collaborative organization focusing on sustainable open source for the scientific
+  * Program Manager at [NumFOCUS](https://numfocus.org/), a nonprofit supporting OSS used for science and research (e.g. [Pandas](https://pandas.pydata.org/))
+  * Co-Founder of [SciOS](https://www.scios.tech/), a collaborative nonprofit focusing on sustainable OSS for the scientific
     community
 
 * **[Amy Parker](https://www.linkedin.com/in/amy3parker/) (Advisor)**
-  * Chief Fundraising Officer at [OpenSSL Foundation](https://openssl-foundation.org/)
-  * Former Director of the [Wikipedia Endowment](https://wikimediaendowment.org/), Director of Individual Giving at the [Smithsonian](https://www.si.edu/) and the [New York Public Library](https://www.nypl.org/)
+  * Chief Fundraising Officer at [OpenSSL Foundation](https://openssl-foundation.org/). Former Director of the [Wikipedia Endowment](https://wikimediaendowment.org/)
+  * Director of Individual Giving at the [Smithsonian](https://www.si.edu/) and the [New York Public Library](https://www.nypl.org/)
 
 * **[Vlad-Stefan Harbuz](https://vlad.website) (Advisor)**
   * Maintainer of the [Open Source Pledge](https://opensourcepledge.com/). Core developer of OSS funding service [thanks.dev](https://thanks.dev/)
