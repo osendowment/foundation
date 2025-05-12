@@ -1,15 +1,13 @@
 <!--<div align="center"><img src="/logo/web/icon-192.png?raw=true" width="70"></div>-->
 <h1 align="center">Open Source Endowment</h1>
 <p align="center">
-    📚 <a href="https://github.com/osendowment/foundation/tree/main/docs">Docs</a>
+    📚 <a href="https://github.com/osendowment/foundation/tree/main/docs">Foundation docs</a>
     ·
     📈 <a href="https://github.com/osendowment/foundation/blob/main/roadmap.md">Roadmap</a>
     ·
-    💸 <a href="https://github.com/osendowment/foundation/blob/main/roadmap.md">Grant model [discussion]</a>
+    💸 <a href="https://github.com/osendowment/foundation/issues/2">Grant model discussion</a>
     ·
     ❤️ <a href="https://github.com/osendowment/foundation?tab=readme-ov-file#donate-to-the-open-source-endowment">Donate</a>
-    ·
-    🌐 <a href="https://endowment.dev">Website</a>
 </p>
 
 The Open Source Endowment (OSE) aims to solve the [open source sustainability crisis](https://openpath.quest/2024/the-open-source-sustainability-crisis/) by
