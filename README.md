@@ -56,7 +56,7 @@ Our core team is made up of the board of directors and the executive director, a
   * Former VP Engineering at [F5](https://www.f5.com/). Seasoned supporter of [FreeBSD](https://www.freebsd.org/)
 
 * **[Jonathan Starr](https://www.linkedin.com/in/jonathan-starr-b04032284/) (Executive Director)**
-  * Program Manager at [NumFOCUS](https://numfocus.org/), a nonprofit supporting OSS used for science and research (e.g. [Pandas](https://pandas.pydata.org/))
+  * Program Manager at [NumFOCUS](https://numfocus.org/), a nonprofit supporting OSS used for research (e.g. [Pandas](https://pandas.pydata.org/))
   * Co-Founder of [SciOS](https://www.scios.tech/), a collaborative nonprofit focusing on sustainable OSS for the scientific
     community
 
