@@ -54,7 +54,7 @@ Our core team is made up of the board of directors and the executive director, a
 
 * **[Jonathan Starr](https://www.linkedin.com/in/jonathan-starr-b04032284/) (Executive Director)**
   * Program Manager at [NumFOCUS](https://numfocus.org/), a nonprofit supporting research & scientific OSS ( (e.g. [Pandas](https://pandas.pydata.org/))
-  * Co-Founder of [SciOS](https://www.scios.tech/) and [The Institute of Open Science Practices](https://osf.io) focusing on sustainable open science
+  * Co-Founder of [SciOS](https://www.scios.tech/) and [The Institute of Open Science Practices](https://iosp.io) focusing on sustainable open science
  
 * **[Amy Parker](https://www.linkedin.com/in/amy3parker/) (Advisor)**
   * Chief Fundraising Officer at [OpenSSL Foundation](https://openssl-foundation.org/). Former Director of the [Wikipedia Endowment](https://wikimediaendowment.org/)
