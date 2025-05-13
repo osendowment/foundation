@@ -44,17 +44,17 @@ The aim of the minimal donation threshold is to ensure that decisions are made b
 
 Our core team is made up of the board of directors and the executive director, as well as experienced advisors that the board consults with. According to the bylaws, all directors must personally become members.
 
-* **[Konstantin Vinogradov](https://www.linkedin.com/in/kvinogradov/) (Board Member, Chairman)**
+* **[Konstantin Vinogradov](https://www.linkedin.com/in/kvinogradov/) (Board Director, Chairman)**
     * General Partner at VC firm [Runa Capital](https://runacap.com/) ($0.5B+ AUM), where he focuses on investing in OSS & tools
     * Co-founded a next-gen endowment, which has organically grown from $50K to $600K+ in 12 months
     * Has been publishing a data-driven rating of top OSS startups ([ROSS Index](https://runacap.com/ross-index/)) every quarter since 2020
 
-* **[Chad Whitacre](https://www.linkedin.com/in/chadwhitacre/) (Board Member, Secretary)**
+* **[Chad Whitacre](https://www.linkedin.com/in/chadwhitacre/) (Board Director, Secretary)**
   * Head of Open Source at [Sentry](https://sentry.io/), the leading developer-first app monitoring platform ($3B+ valuation)
   * Leader of the [Open Source Pledge](https://opensourcepledge.com/), a cultural project to get companies to pay the OSS maintainers
   * Founder of open source funding pioneer [Gratipay](https://gratipay.com/) (2012–2018)
 
-* **[Maxim Konovalov](https://www.linkedin.com/in/maxim/) (Board Member, Treasurer)**
+* **[Maxim Konovalov](https://www.linkedin.com/in/maxim/) (Board Director, Treasurer)**
   * Co-founder and ex VP Engineering at [Nginx](https://nginx.com), the world's leading web server, acquired for ~$0.7B in 2019
   * Former VP Engineering at [F5](https://www.f5.com/). Seasoned supporter of [FreeBSD](https://www.freebsd.org/)
 
