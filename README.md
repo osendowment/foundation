@@ -17,7 +17,7 @@ providing maintainers of critical open source software with a source of funding 
 - **🔗 Systemic**: Prioritizes critical yet underfunded OSS, rather than large/popular ones or specific supply chains
 - **🚀 Scalable**: Operates as an efficient next-gen charity designed for scale, not a like a typical nonprofit
 
-OSE is the world's first endowment exclusively dedicated to open source. It is co-founded by an inclusive community of tech founders, executives, investors, and software engineers who care about OSS.﻿﻿ For now, we continue to accept [co-founding individual donors](https://github.com/osendowment/foundation/issues/1). 
+OSE is the world's first endowment exclusively dedicated to open source. It is founded by an inclusive global community of tech founders, executives, investors, and software engineers who care about OSS.﻿﻿ For now, we continue to accept [co-founding individual donors](https://github.com/osendowment/foundation/issues/1). 
 
 ## How it works
 
