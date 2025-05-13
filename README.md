@@ -36,7 +36,7 @@ The Open Source Endowment Foundation is a US nonprofit corporation, incorporated
 
 ### Members
 
-Individual donors who contribute at least $1000 to the endowment fund qualify as the OSE members. Members advise the OSE board of on strategic matters, such as the grant selection model, and in the future will also nominate several board members.
+Individual donors who contribute at least $1000 to the endowment fund qualify as the OSE members. Members advise the OSE board of on strategic matters, such as the grant selection model, and in the future will also appoint several board members.
 
 The aim of the minimal donation threshold is to ensure that decisions are made by people that have personally committed to the OSE's goals and have skin in the game. OSE currently has over 20 co-founding donors with such qualifying commitments. 
 
