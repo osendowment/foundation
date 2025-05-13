@@ -40,8 +40,8 @@ Our core team is made up of the board of directors and the executive director, a
 
 * **[Konstantin Vinogradov](https://www.linkedin.com/in/kvinogradov/) (Board Member, Chairman)**
     * General Partner at VC firm [Runa Capital](https://runacap.com/) ($0.5B+ AUM), where he focuses on investing in OSS & tools
-    * Co-founded a next-gen endowment, which has grown from $50K to $600K+ from 150+ donors (8 countries) in 12 months
-    * Has been publishing a data-driven rating of top open-source startups ([ROSS Index](https://runacap.com/ross-index/)) every quarter since 2020
+    * Co-founded a next-gen endowment, which has organically grown from $50K to $600K+ in 12 months
+    * Has been publishing a data-driven rating of top OSS startups ([ROSS Index](https://runacap.com/ross-index/)) every quarter since 2020
 
 * **[Chad Whitacre](https://www.linkedin.com/in/chadwhitacre/) (Board Member, Secretary)**
   * Head of Open Source at [Sentry](https://sentry.io/), the leading developer-first app monitoring platform ($3B+ valuation)
