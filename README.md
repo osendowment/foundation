@@ -32,7 +32,9 @@ OSE is the world's first endowment exclusively dedicated to open source. It is c
 
 ### Members
 
-Individual donors who contribute at least $1000 to the endowment fund qualify as the OSE members. Members advise the OSE board of on strategic matters, such as the grant selection model, and in the future will also nominate several board members. The aim of the minimal donation threshold is to ensure that decisions are made by people that have personally committed to the OSE's goals and have skin in the game. OSE currently has over 20 co-founding donors with such qualifying commitments. 
+Individual donors who contribute at least $1000 to the endowment fund qualify as the OSE members. Members advise the OSE board of on strategic matters, such as the grant selection model, and in the future will also nominate several board members.
+
+The aim of the minimal donation threshold is to ensure that decisions are made by people that have personally committed to the OSE's goals and have skin in the game. OSE currently has over 20 co-founding donors with such qualifying commitments. 
 
 ### Team
 
@@ -53,7 +55,7 @@ Our core team is made up of the board of directors and the executive director, a
   * Former VP Engineering at [F5](https://www.f5.com/). Seasoned supporter of [FreeBSD](https://www.freebsd.org/)
 
 * **[Jonathan Starr](https://www.linkedin.com/in/jonathan-starr-b04032284/) (Executive Director)**
-  * Program Manager at [NumFOCUS](https://numfocus.org/), a nonprofit supporting research & scientific OSS ( (e.g. [Pandas](https://pandas.pydata.org/))
+  * Program Manager at [NumFOCUS](https://numfocus.org/), a nonprofit supporting research & scientific OSS (e.g. [Pandas](https://pandas.pydata.org/))
   * Co-Founder of [SciOS](https://www.scios.tech/) and [The Institute of Open Science Practices](https://iosp.io) focusing on sustainable open science
  
 * **[Amy Parker](https://www.linkedin.com/in/amy3parker/) (Advisor)**
