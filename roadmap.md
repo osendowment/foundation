@@ -105,7 +105,7 @@ Key tasks to legally implement key OSE principles, ensure its community-driven g
 | [Bylaws & key entity docs](https://github.com/osendowment/foundation/tree/main/docs)|✅  
 | [Initial board of directors](https://github.com/osendowment/foundation/blob/main/docs/board-uwc.md)|✅
 | 501(c)3 charity status|⏳
-| [Members' repo (private)](https://github.com/oseendowment/foundation) | ⏳
+| [Members' repo (private)](https://github.com/oseendowment/foundation) | ✅
 | Membership policy|⏳
 | Other key policies|
 | Finalized board of directors |
