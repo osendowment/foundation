@@ -36,9 +36,9 @@ The Open Source Endowment Foundation is a US nonprofit corporation, incorporated
 
 ### Members
 
-Individual donors who contribute at least $1000 to the endowment fund qualify as the OSE members. Members advise the OSE board of on strategic matters, such as the grant selection model, and in the future will also appoint several board members.
+Individuals contributing at least $1000/year (can be prepaid!) to the endowment fund qualify as the OSE members. Members advise the OSE board of on strategic matters, such as the grant selection model, and in the future will also appoint several board members. These rights are legally defined in our [membership policy](https://github.com/osendowment/foundation/blob/main/docs/membership-policy.md). 
 
-The aim of the minimal donation threshold is to ensure that decisions are made by people that have personally committed to the OSE's goals and have skin in the game. OSE currently has over 20 co-founding donors with such qualifying commitments. 
+The aim of the minimal donation threshold is to ensure that decisions are made by people that have personally committed to the OSE's goals and have skin in the game. OSE currently has over 30 co-founding donors with such qualifying commitments. 
 
 ### Team
 
@@ -75,11 +75,11 @@ Our core team is made up of the board of directors and the executive director, a
 **Donate via a USD wire from a US/global bank to our account (Mercury Bank, no fees):**
 - Beneficiary Name: Open Source Endowment Foundation
 - Beneficiary Address: 1209 Orange Street, Wilmington, DE 19801
-- Type of Account: Checking
-- Account Number / IBAN: 202527873980
-- ABA Routing Number: 091311229
-- SWIFT / BIC Code: CHFGUS44021
 - Bank Name: Choice Financial Group Bank
-- Address: 4501 23rd Avenue S, Fargo, ND 58104
+- Bank address: 4501 23rd Avenue S, Fargo, ND 58104, USA
+- ABA routing number :091311229
+- IBAN/Account number: 202580213394
+- SWIFT / BIC Code: CHFGUS44021
+- Type of Account: Checking
 
 **[Donate via card or Apple/Google Pay](https://buy.stripe.com/4gwdTs9zk0VI7F67ss) (Stripe, 2.9% fees)**
