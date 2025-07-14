@@ -106,7 +106,7 @@ Key tasks to legally implement key OSE principles, ensure its community-driven g
 | [Initial board of directors](https://github.com/osendowment/foundation/blob/main/docs/board-uwc.md)|✅
 | 501(c)3 charity status|⏳
 | [Members' repo (private)](https://github.com/oseendowment/foundation) | ✅
-| Membership policy|⏳
+| [Membership policy](https://github.com/osendowment/foundation/blob/main/docs/membership-policy.md))| ✅
 | Other key policies|
 | Finalized board of directors |
    
@@ -117,7 +117,7 @@ Key tasks to optimize the impact and efficiency of OSE's grant-making activities
 | - | :----: |
 | [MVP for data-driven donations](https://kvinogradov.com/algo-sponsors/) | ✅
 | [Draft grant-making model](https://github.com/osendowment/foundation/issues/2) | ⏳
-| Select asset manager | ⏳
+| [Select asset manager](https://github.com/osendowment/foundation/blob/main/README.md#low-risk-investments) | ✅
 | Finalized grant-making model | 
 | Implemented model infra | 
 | First endowment fund income | 
@@ -133,7 +133,7 @@ Key tasks to increase the incoming flow of donations.﻿
 | [Card payments](https://github.com/osendowment/foundation/blob/main/donation-methods.md#card-payments) | ✅
 | [Basic website](https://endowment.dev/) | ✅
 | [Donation platforms](https://github.com/osendowment/foundation/blob/main/donation-methods.md#donation-platforms) | ⏳
-| Landing page | ⏳
+| [Landing page](https://github.com/osendowment/endowment.dev) | ✅
 | Stock donations |
 | Fully functional website | 
 | Public GitHub repo | 
