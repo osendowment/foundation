@@ -14,10 +14,32 @@
 ## Card payments
 
 - [Stripe](https://buy.stripe.com/4gwdTs9zk0VI7F67ss) (2.9% fees): 
-- [PayPal](https://www.paypal.com/donate/?hosted_button_id=JBYBVSHCC9U8N) (4.9% fees): 
+- [PayPal](https://www.paypal.com/donate/?hosted_button_id=JBYBVSHCC9U8N) (4.9% fees)
 
 ## Donation platforms
 
 - [GitHub Sponsors](https://github.com/sponsors/osendowment) (6% fee = 3% card processing + 3% GitHub)
 - [Ko-Fi](https://ko-fi.com/osendowment)
 - [Buy me a coffee](https://buymeacoffee.com/osendowment)
+
+## Bank transfer (non-USD)
+
+- TBD
+
+## Public Shares
+
+- TBD
+
+## Crypto
+
+- TBD
+
+## Donor-advised funds (DAF)
+
+- TBD, requires 501(c)(3)
+
+## Private Shares
+
+- TBD
+
+
