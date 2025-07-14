@@ -74,8 +74,9 @@ Our core team is made up of the board of directors and the executive director, a
 
 * As the board, we have preliminarily selected [Infinity Giving](https://www.infinitegiving.com) as a modern outsourced CIO (Chief Investment Officer) for the low-risk investing of the endowment fund. The Open Source Endowment will be able to start working with this external asset manager only after obtaining a 501(c)(3) status in the USA, which is expected by the end of 2025.
 
-* Our investment strategy before 501(c)(3) is to buy US Treasury bonds, whose yield closely matches our target spend rate of 5% per year. Later, these T-bonds will be complemented by slightly more risky assets selected by the outsourced CIO, which should increase the expected portfolio returns to 7-8%. We have opened a brokerage account at Vanguard and already purchased:
+* Our investment strategy before 501(c)(3) is to buy US Treasury bonds, whose yield closely matches our target spend rate of 5% per year. Later, these T-bonds will be complemented by slightly more risky assets selected by the outsourced CIO, which should increase the expected portfolio returns to 7-8%.
 
+* We have opened a brokerage account at Vanguard and already purchased:
     * 100,000 U.S. T-Bonds for $101,473.53: 5.0% coupon rate, 20-year maturity, [CUSIP 912810UL0](https://www.bondsupermart.com/bsm/bond-factsheet/US912810UL07) 
 
 
