@@ -120,7 +120,7 @@ Key tasks to optimize the impact and efficiency of OSE's grant-making activities
 | [Select asset manager](https://github.com/osendowment/foundation/blob/main/README.md#low-risk-investments) | ✅
 | Finalized grant-making model | 
 | Implemented model infra | 
-| First endowment fund income | 
+| First endowment fund income | ⏳
 | First model-based grants | 
  
 ### Fundraising
@@ -134,12 +134,12 @@ Key tasks to increase the incoming flow of donations.﻿
 | [Basic website](https://endowment.dev/) | ✅
 | [Donation platforms](https://github.com/osendowment/foundation/blob/main/donation-methods.md#donation-platforms) | ⏳
 | [Landing page](https://github.com/osendowment/endowment.dev) | ✅
-| Stock donations |
-| Fully functional website | 
+| Stock donations | ⏳
+| Fully functional website | ⏳
 | Public GitHub repo | 
 | 501(c)3 platforms |
-| Crypto donations |
-| Non-USD donations | 
+| Crypto donations | ⏳
+| Non-USD donations | ⏳
 | API-based donations | 
 
 ## Long-term roadmap
