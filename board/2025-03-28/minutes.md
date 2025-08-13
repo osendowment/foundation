@@ -2,11 +2,11 @@
 
 | | |
 |-|-|
-| **time** | 17:00 to 18:00 UTC |
-| **place** | Zoom |
-| **present** | Konstantin Vinogradov (President)<br>Maxim Konovalov (Treasurer)<br>Chad Whitacre (Secretary) |
-| **absent** | |
-| **nonvoting** | Jonathan Starr (ED) |
+| **Time** | 17:00 to 18:00 UTC |
+| **Place** | Zoom |
+| **Present** | Konstantin Vinogradov (President)<br>Maxim Konovalov (Treasurer)<br>Chad Whitacre (Secretary) |
+| **Absent** | |
+| **Nonvoting** | Jonathan Starr (ED) |
 
 Meeting convened at 17:03.
 
