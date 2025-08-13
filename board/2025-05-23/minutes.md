@@ -23,7 +23,7 @@ made a recommendation: Infinite Giving
 information from Infinite Giving before making a final decision to move forward
 with them. JS and KV to discuss further with IG.
 
-16:37—KV presented the [membership policy](https://docs.google.com/document/d/1P4Fp1vCd3rmqe1JCmCqnko11gD74bZ9Yfhq7so3uqZA/edit). The board discussed the policy.
+16:37—KV presented the membership policy. The board discussed the policy.
 
 16:53—The membership policy was approved as amended, by consensus.
 
