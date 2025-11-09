@@ -1,14 +1,15 @@
 <!--<div align="center"><img src="/logo/web/icon-192.png?raw=true" width="70"></div>-->
-<h1 align="center">Open Source Endowment</h1>
-<p align="center">
-    📚 <a href="https://github.com/osendowment/foundation/tree/main/docs">Foundation docs</a>
-    ·
-    📈 <a href="https://github.com/osendowment/foundation/blob/main/roadmap.md">Roadmap</a>
-    ·
-    💸 <a href="https://github.com/osendowment/foundation/issues/2">Grant model discussion</a>
-    ·
-    ❤️ <a href="https://github.com/osendowment/foundation?tab=readme-ov-file#donate-to-the-open-source-endowment">Donate</a>
-</p>
+<h1>Open Source Endowment</h1>
+
+![Committed](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic-stats.endowment.dev%2F&query=%24.committments.committed_value_k&prefix=%24&suffix=K&style=for-the-badge&label=Committed&color=green&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2F%23donate) ![Donated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic-stats.endowment.dev%2F&query=%24.donations.total_donated_value_k&prefix=%24&suffix=K&style=for-the-badge&label=Donated&color=forestgreen&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2F%23donate) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic-stats.endowment.dev%2F&query=%24.donations.total_donors_count&style=for-the-badge&label=Active%20donors&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2F%23donate&cacheBust=1)
+
+📚 <a href="https://github.com/osendowment/foundation/tree/main/docs">Foundation docs</a>
+·
+📈 <a href="https://github.com/osendowment/foundation/blob/main/roadmap.md">Roadmap</a>
+·
+💸 <a href="https://github.com/osendowment/foundation/issues/2">Grant model discussion</a>
+·
+❤️ <a href="https://github.com/osendowment/foundation?tab=readme-ov-file#donate-to-the-open-source-endowment">Donate</a>
 
 The Open Source Endowment (OSE) aims to solve the [open source sustainability crisis](https://openpath.quest/2024/the-open-source-sustainability-crisis/) by
 providing maintainers of critical open source software with a source of funding that is sustainable, systemic and scalable. 
@@ -32,7 +33,7 @@ OSE is the world's first endowment exclusively dedicated to open source. It is f
 
 ### Foundation
 
-The Open Source Endowment Foundation is a US nonprofit corporation, incorporated on February 14, 2025. We applied for a 501(c)(3) status, and once it is approved (ETA ~ Q4 2025), donations made to the foundation will be retroactively tax deductable for US donors.﻿
+The Open Source Endowment Foundation is a US nonprofit corporation, incorporated on February 14, 2025. We applied for a 501(c)(3) status, and once it is approved (ETA ~ Q1 2026), donations made to the foundation will be retroactively tax deductable for US donors.﻿
 
 ### Members
 
