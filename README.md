@@ -5,11 +5,11 @@
 
 📚 <a href="https://github.com/osendowment/foundation/tree/main/docs">Foundation docs</a>
 ·
-📈 <a href="https://github.com/osendowment/foundation/blob/main/roadmap.md">Roadmap</a>
+💸 <a href="https://github.com/osendowment/model">Grantmaking model</a>
 ·
-💸 <a href="https://github.com/osendowment/foundation/issues/2">Grant model discussion</a>
+❓ <a href="https://github.com/osendowment/blob/main/faq">FAQ</a>
 ·
-❤️ <a href="https://github.com/osendowment/foundation?tab=readme-ov-file#donate-to-the-open-source-endowment">Donate</a>
+❤️ <a href="https://oseendowment.dev/#donate">Donate</a>
 
 The Open Source Endowment (OSE) aims to solve the [open source sustainability crisis](https://openpath.quest/2024/the-open-source-sustainability-crisis/) by
 providing maintainers of critical open source software with a source of funding that is sustainable, systemic and scalable. 
@@ -45,33 +45,17 @@ The aim of the minimal donation threshold is to ensure that decisions are made b
 
 Our core team is made up of the board of directors and the executive director, as well as experienced advisors that the board consults with. According to the bylaws, all directors must personally become members.
 
-* **[Konstantin Vinogradov](https://www.linkedin.com/in/kvinogradov/) (Board Director, Chairman)**
-    * General Partner at VC firm [Runa Capital](https://runacap.com/) ($0.5B+ AUM), where he focuses on investing in OSS & tools
-    * Co-founded a next-gen endowment, which has organically grown from $50K to $600K+ in 12 months
-    * Has been publishing a data-driven rating of top OSS startups ([ROSS Index](https://runacap.com/ross-index/)) every quarter since 2020
-
-* **[Chad Whitacre](https://www.linkedin.com/in/chadwhitacre/) (Board Director, Secretary)**
-  * Head of Open Source at [Sentry](https://sentry.io/), the leading developer-first app monitoring platform ($3B+ valuation)
-  * Leader of the [Open Source Pledge](https://opensourcepledge.com/), a cultural project to get companies to pay the OSS maintainers
-  * Founder of open source funding pioneer [Gratipay](https://gratipay.com/) (2012–2018)
-
-* **[Maxim Konovalov](https://www.linkedin.com/in/maxim/) (Board Director, Treasurer)**
-  * Co-founder and ex VP Engineering at [Nginx](https://nginx.com), the world's leading web server, acquired for ~$0.7B in 2019
-  * Former VP Engineering at [F5](https://www.f5.com/). Seasoned supporter of [FreeBSD](https://www.freebsd.org/)
-
-* **[Jonathan Starr](https://www.linkedin.com/in/jonathan-starr-b04032284/) (Executive Director)**
-  * Program Manager at [NumFOCUS](https://numfocus.org/), a nonprofit supporting research & scientific OSS (e.g. [Pandas](https://pandas.pydata.org/))
-  * Co-Founder of [SciOS](https://www.scios.tech/) and [The Institute of Open Science Practices](https://iosp.io) focusing on sustainable open science
+|Person|Role at OSE and short bio|
+|-|-|
+|[Konstantin Vinogradov](https://www.linkedin.com/in/kvinogradov/)| **Board Director + Chairman**. General Partner at VC firm [Runa Capital](https://runacap.com/) ($0.5B+ AUM), where he focuses on investing in OSS & tools. Co-founded a next-gen endowment, which has organically grown from $50K to $600K+ in 12 months. Has been publishing a data-driven rating of top OSS startups ([ROSS Index](https://runacap.com/ross-index/)) every quarter since 2020
+|[Chad Whitacre](https://www.linkedin.com/in/chadwhitacre/)| **Board Director + Secretary**. Head of Open Source at [Sentry](https://sentry.io/), the leading developer-first app monitoring platform ($3B+ valuation). Leader of the [Open Source Pledge](https://opensourcepledge.com/), a cultural project to get companies to pay the OSS maintainers. Founder of open source funding pioneer [Gratipay](https://gratipay.com/) (2012–2018)
+|[Maxim Konovalov](https://www.linkedin.com/in/maxim/)| **Board Director + Treasurer**. Co-founder and ex VP Engineering at [Nginx](https://nginx.com), the world's leading web server, acquired for ~$0.7B in 2019. Former VP Engineering at [F5](https://www.f5.com/). Seasoned supporter of [FreeBSD](https://www.freebsd.org/)
+|[Amy Parker](https://www.linkedin.com/in/amy3parker/)| **Board Advisor**. Chief Fundraising Officer at [OpenSSL Foundation](https://openssl-foundation.org/). Former Director of the [Wikipedia Endowment](https://wikimediaendowment.org/), Director of Individual Giving at the [Smithsonian](https://www.si.edu/) and the [New York Public Library](https://www.nypl.org/)
+|[Vlad-Stefan Harbuz](https://vlad.website)| **Board Advisor**. Maintainer of the [Open Source Pledge](https://opensourcepledge.com/). Core developer of OSS funding service [thanks.dev](https://thanks.dev/). Contributor to software used by the [Gates Foundation](https://www.gatesfoundation.org) to allocate $1B in healthcare funding
+|[Jonathan Starr](https://www.linkedin.com/in/jonathan-starr-b04032284/)| **Executive Director**. Former Program Manager at [NumFOCUS](https://numfocus.org/), a nonprofit supporting research & scientific OSS (e.g. [Pandas](https://pandas.pydata.org/)). Co-Founder of [SciOS](https://www.scios.tech/) and [The Institute of Open Science Practices](https://iosp.io) focusing on sustainable open science
  
-* **[Amy Parker](https://www.linkedin.com/in/amy3parker/) (Advisor)**
-  * Chief Fundraising Officer at [OpenSSL Foundation](https://openssl-foundation.org/). Former Director of the [Wikipedia Endowment](https://wikimediaendowment.org/)
-  * Director of Individual Giving at the [Smithsonian](https://www.si.edu/) and the [New York Public Library](https://www.nypl.org/)
 
-* **[Vlad-Stefan Harbuz](https://vlad.website) (Advisor)**
-  * Maintainer of the [Open Source Pledge](https://opensourcepledge.com/). Core developer of OSS funding service [thanks.dev](https://thanks.dev/)
-  * Contributor to software used by the [Gates Foundation](https://www.gatesfoundation.org) to allocate $1B in healthcare funding
-
-## Low-risk Investments 
+## Investments 
 
 We have preliminarily selected [Infinity Giving](https://www.infinitegiving.com) as a modern outsourced CIO (Chief Investment Officer) for the low-risk investing of the endowment fund. The Open Source Endowment will be able to start working with this external asset manager only after obtaining a 501(c)(3) status in the USA.
 
@@ -86,16 +70,17 @@ We have opened a brokerage account at Vanguard and already purchased first T-Bon
 
 So, the current endowment fund generates ~$22K/year for Open Source until 2045.﻿
 
-## Donate to the Open Source Endowment
+## Donation methods
 
-**Donate via a USD wire from a US/global bank to our account (Mercury Bank, no fees):**
-- Beneficiary Name: Open Source Endowment Foundation
-- Beneficiary Address: 1209 Orange Street, Wilmington, DE 19801
-- Bank Name: Choice Financial Group Bank
-- Bank address: 4501 23rd Avenue S, Fargo, ND 58104, USA
-- ABA routing number :091311229
-- IBAN/Account number: 202580213394
-- SWIFT / BIC Code: CHFGUS44021
-- Type of Account: Checking
-
-**[Donate via card or Apple/Google Pay](https://buy.stripe.com/4gwdTs9zk0VI7F67ss) (Stripe, 2.9% fees)**
+|Method|Description
+|-|-|
+|**USD Bank transfers**| International and domestic transfers via the [website form](https://endowment.dev/#donate)
+|**Card / Apple Pay / Google Pay** | Supported (Stripe: 2.9% fees) via the [website form](https://endowment.dev/#donate)
+|**Stablecoins**| Accepting stablecoints (USDC, etc.) up to $10,000 via [Stripe](https://donate.stripe.com/4gwdTs9zk0VI7F67ss)
+|**Non-USD Bank transfers**| [Supported](https://github.com/osendowment/foundation/issues/18), but not available on our website 
+|Public US stock| Testing now
+|Private US stock| Did not test yet - donors are welcome!
+|Donor-advised funds (DAF)| Pending the 501(c)3 approval
+|Charity platforms| Pending the 501(c)3 approval
+|**PayPal**| Available on [PayPal website](https://www.paypal.com/donate/?hosted_button_id=JBYBVSHCC9U8N) (4.9% fees)
+|**Other platforms**| [GitHub Sponsors](https://github.com/sponsors/osendowment), [Ko-Fi](https://ko-fi.com/osendowment), [Patreon](https://www.patreon.com/osendowment), [Buy Me a Coffee](https://buymeacoffee.com/osendowment)
