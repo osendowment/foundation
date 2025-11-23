@@ -4,6 +4,8 @@ When/if the IRS approves the 501(c)(3) application (estimated around Q1 2026), t
 
 Once this milestone is reached, we plan to make this repository public, conclude the onboarding of founding donors, and officially launch the Open Source Endowment. This will mark the moment when we begin facilitating donations from the broader developer community and from companies.
 
+Until then, we target to implement the key features listed below.
+
 ### Governance
 Key tasks to legally implement key OSE principles, ensure its community-driven governance model and enable its long-term scalability. 
 
