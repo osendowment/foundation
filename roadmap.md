@@ -1,4 +1,4 @@
-## Short-term roadmap
+# Roadmap
 
 When/if the IRS approves the 501(c)(3) application (estimated around Q1 2026), the OSE would become a tax-exempt 501(c)(3) charity in the United States. At that point, both future donations and all past contributions will retroactively qualify as tax-deductible for U.S. residents.
 
@@ -17,6 +17,7 @@ Key tasks to legally implement key OSE principles, ensure its community-driven g
 | [Members' repo (private)](https://github.com/oseendowment/foundation) | ✅
 | [Membership policy](https://github.com/osendowment/foundation/blob/main/docs/policies/membership-policy.md)| ✅
 | [Investments of donations](https://github.com/osendowment/foundation?tab=readme-ov-file#investments)| ✅
+| [Dashboard for donors](https://stats.endowment.dev) | ✅
 | 501(c)3 charity status|⏳
 | Other key policies|
 | Finalized board of directors |
