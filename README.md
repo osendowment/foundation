@@ -4,11 +4,11 @@
 ![Committed](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic-stats.endowment.dev%2F&query=%24.committments.committed_value_k&prefix=%24&suffix=K&style=for-the-badge&label=Committed&color=green&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2F%23donate) ![Donated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic-stats.endowment.dev%2F&query=%24.donations.total_donated_value_k&prefix=%24&suffix=K&style=for-the-badge&label=Donated&color=forestgreen&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2F%23donate) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic-stats.endowment.dev%2F&query=%24.donations.total_donors_count&style=for-the-badge&label=Active%20donors&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2F%23donate&cacheBust=1)
 
 📚 <a href="https://github.com/osendowment/foundation/tree/main/docs">Foundation docs</a>
-·
+ · 
 💸 <a href="https://github.com/osendowment/model">Grantmaking model</a>
-·
-❓ <a href="https://github.com/osendowment/blob/main/faq">FAQ</a>
-·
+ · 
+❓ <a href="https://github.com/osendowment/foundation/blob/main/faq.md">FAQ</a>
+ · 
 ❤️ <a href="https://oseendowment.dev/#donate">Donate</a>
 
 The Open Source Endowment (OSE) aims to solve the [open source sustainability crisis](https://openpath.quest/2024/the-open-source-sustainability-crisis/) by
