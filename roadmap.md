@@ -1,6 +1,6 @@
 ## Short-term roadmap
 
-When the IRS approves the 501(c)(3) application (estimated around Q1 2026), the OSE will become a tax-exempt 501(c)(3) charity in the United States. At that point, both future donations and all past contributions will retroactively qualify as tax-deductible for U.S. residents.
+When/if the IRS approves the 501(c)(3) application (estimated around Q1 2026), the OSE would become a tax-exempt 501(c)(3) charity in the United States. At that point, both future donations and all past contributions will retroactively qualify as tax-deductible for U.S. residents.
 
 Once this milestone is reached, we plan to make this repository public, conclude the onboarding of founding donors, and officially launch the Open Source Endowment. This will mark the moment when we begin facilitating donations from the broader developer community and from companies.
 
