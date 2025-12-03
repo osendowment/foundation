@@ -30,9 +30,9 @@ Key tasks to optimize the impact and efficiency of OSE's grant-making activities
 | [MVP for data-driven donations](https://kvinogradov.com/algo-sponsors/) | ✅
 | [Draft grant-making model](https://github.com/osendowment/model/) | ✅
 | [Select asset manager](https://github.com/osendowment/foundation/blob/main/README.md#low-risk-investments) | ✅
+| First endowment fund income | ✅
 | Implemented model infra | ⏳
 | Finalized grant-making model | ⏳
-| First endowment fund income | ⏳
 | First model-based grants | 
  
 ### Fundraising
