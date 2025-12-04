@@ -1,4 +1,4 @@
-# OSE Board Minutes for 2025-05-23
+# OSE Board Minutes for 2025-12-04
 
 | | |
 |-|-|
