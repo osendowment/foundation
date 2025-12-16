@@ -82,7 +82,7 @@ So, the current endowment fund generates ~$22K/year for Open Source until 2045.ï
 |**Cards & Apple/Google Pay** | Supported (Stripe: 2.9% fees) via the [website form](https://endowment.dev/#donate)
 |**Stablecoins**| Accepting stablecoints (USDC, etc.) up to $10,000 via [Stripe](https://donate.stripe.com/4gwdTs9zk0VI7F67ss)
 |**Non-USD Bank transfers**| [Supported](https://github.com/osendowment/foundation/issues/18), but not available on our website yet. [Ask us to try](mailto:donations@endomwment.dev) 
-|Public US stock| Supported, but not available on our website yet. [Ask us to try](mailto:donations@endomwment.dev) 
+|**Public US stock**| Supported, but not available on our website yet. [Ask us to try](mailto:donations@endomwment.dev) 
 |Private US stock| We did not test this yet - donors are welcome!
 |Donor-advised funds (DAF)| Pending the 501(c)3 approval
 |Charity platforms| Pending the 501(c)3 approval
