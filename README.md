@@ -37,7 +37,7 @@ OSE is the world's first endowment exclusively dedicated to open source. It is f
 
 ### Foundation
 
-The Open Source Endowment Foundation is a US nonprofit corporation, incorporated on February 14, 2025. We applied for a 501(c)(3) status, and once it is approved (ETA ~ Q1 2026), donations made to the foundation will be retroactively tax deductable for US donors.﻿
+The Open Source Endowment Foundation is a US nonprofit corporation (EIN 33-3502715), incorporated on February 14, 2025. We applied for a 501(c)(3) status, and once it is approved (ETA ~ Q1 2026), donations made to the foundation will be retroactively tax deductable for US donors.﻿
 
 ### Members
 
