@@ -50,9 +50,7 @@ All expected investment income from donations to the endowment is spent on grant
 OSE aims to ensure sustainable maintenance of most critical OSS projects, reducing risks to the global software supply chain by addressing funding gaps. Our key principles:
 
 - **Long-term impact**: Priority to fixing underlying issues (e.g. maintainer burnout) instead of fighting with their surface-level consequences (e.g. vulnerabilities). There are already enough organizations doing "firefighting" in the global village of open source, and OSE's role is more about funding the preventive installation of "fire safety measures" in the most critical buildings.
-
 - **Follow the market**: OSE is not opinionated about which software is more valuable and worthy of support, and bases its neutral judgment on the internal estimation of how the world consumes OSS. Such an approach will account for the full dependency tree and naturally prioritizes low-level infrastructure libraries (e.g. C/C++) over more app-focused ecosystems (e.g. JS/TS).
-
 - **Measurable and transparent**: Algorithmic (but not automatic!) data-driven selection of grantees, based on the model co-developed with the OSE donors, which has human-in-the-loop elements. It will be open to the OSE members, and partially to the public. 
 
 ### How will the selection model look like?
@@ -81,7 +79,6 @@ If an open source project can turn into a sustainable business, it probably shou
 There are two ways we currently think about awarding grants:
 
 - **Forward-looking**: Maintainers of the project should use grants to perform a measurable chunk of work, which will de-risk the project.
-
 - **Backward-looking**: Some maintainers have already been working on their projects for decades without any reasonable support. We publicly acknowledge and provide monetary gratitude for what they have done, decreasing potential burnout.
 
 The impact of grants is planned to be checked quantitatively (data-driven metrics) and qualitatively (check-in calls). We also aim to highlight the critical maintainers, so everybody could join OSE in supporting them.
@@ -95,9 +92,7 @@ In the short term, there is no such problem at all. As for the long term, the te
 ### Why did nobody build an OSS endowment before OSE?
 
 - **Endowment model requires a 20+ year planning horizon**: Most organizations, including charities, focus on quick wins and annual budgets. They can't afford to spend only ~5% of donations every year. Established charities can hardly launch next-gen initiatives — like many large or legacy organizations. Even in the case of OSS-enlightened leaders, governments would have a hard time explaining OSS to voters. Companies usually do not create endowments as their business priorities change over time. They are created by passionate individuals.
-
 - **Endowment model fits well only targets with unlimited lifespans**: Most OSS communities are typically centered around targets with limited lifespans: software (like Linux), languages (like Python), and people. Software evolves and becomes obsolete over time, rendering any project-specific funding eventually irrelevant. Unlike any particular OSS ecosystem, OSS-at-large is an open-ended target.
-
 - **OSS endowment requires a rare intersection of multiple areas of expertise**: This work requires experience in open source and dev-focused products, endowments, scaling of tech startups, fundraising etc. It requires leaders with a strong desire and ability to pursue their own personal non-profit initiatives. Most OSS people are not familiar with the endowment model, especially outside the USA/UK (majority). Most philanthropists are not familiar with open source values and their challenges — this problem did not exist 25 years ago.
 
 ### Are discussions regarding OSE open to the public?
