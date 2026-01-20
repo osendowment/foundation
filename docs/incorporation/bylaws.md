@@ -47,7 +47,6 @@ Except for the Founding Director and the other initial directors appointed by th
 
 - **(a) Board-Elected Directors** shall be selected from among the Members of the corporation and elected by a majority vote of the Board of Directors then in office. Each Board-Elected Director shall serve a term of three (3) years.
 - **(b) Member-Elected Directors** shall be selected from among the Members of the corporation and elected by a majority of the votes of the Members participating in a vote as to which quorum is satisfied. Each Member-Elected Director shall serve a term of two (2) years.
-
   - Notwithstanding the foregoing, a director’s initial term may be set by the Board for a greater or lesser number of years for the purpose of maintaining a staggered Board (i.e., a Board where a roughly equal number of director terms end each year), with such adjustment noted in the resolution or action electing such director. Each director shall hold office until such director’s successor is elected and qualified or until such director’s earlier death, resignation, or removal. A director who has served two (2) consecutive terms must remain off the Board for at least one year before becoming eligible for re-election.
 
 **Section 3.6 Resignation.**  
