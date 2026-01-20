@@ -31,10 +31,8 @@ The total number of directors shall be not less than three (3) nor more than ele
 
 - **(a) Founding Director.**  
   There shall be one (1) Founding Director seat, which Konstantin Vinogradov shall have an exclusive right to hold. This seat is automatically eliminated in fifteen (15) years since the incorporation or earlier at Mr. Vinogradov’s sole discretion.
-
 - **(b) Member-Elected Directors.**  
   Directors elected by the Members as per these Bylaws. The Board shall have sole discretion to determine the number of such directors, provided that the number shall be between zero (0) and five (5).
-
 - **(c) Board-Elected Directors.**  
   Directors elected by the Board as per these Bylaws. The number of Board-Elected Directors is equal to the total number of directors authorized by the Board, minus Founding Director and the number of Member-Elected Directors.
 
@@ -48,7 +46,6 @@ All directors shall be Members of this corporation.
 Except for the Founding Director and the other initial directors appointed by the incorporator, directors shall be elected as follows:
 
 - **(a) Board-Elected Directors** shall be selected from among the Members of the corporation and elected by a majority vote of the Board of Directors then in office. Each Board-Elected Director shall serve a term of three (3) years.
-
 - **(b) Member-Elected Directors** shall be selected from among the Members of the corporation and elected by a majority of the votes of the Members participating in a vote as to which quorum is satisfied. Each Member-Elected Director shall serve a term of two (2) years.
 
   - Notwithstanding the foregoing, a director’s initial term may be set by the Board for a greater or lesser number of years for the purpose of maintaining a staggered Board (i.e., a Board where a roughly equal number of director terms end each year), with such adjustment noted in the resolution or action electing such director. Each director shall hold office until such director’s successor is elected and qualified or until such director’s earlier death, resignation, or removal. A director who has served two (2) consecutive terms must remain off the Board for at least one year before becoming eligible for re-election.
@@ -141,7 +138,6 @@ The compensation of the officers is determined by the Board of Directors, and no
 No contract or transaction between this corporation and any of its directors or officers, any organization in which one or more of this corporation’s directors or officers has or have a financial interest, or any organization for which a director or officer of this corporation also serves as a director or officer, shall be void or voidable solely for that reason, or solely because the director or officer is present at or participates in the meeting of the Board or Board Committee which authorizes the contract or transaction, or solely because any such director’s or officer’s vote was counted for such purpose, if:
 
 - **(a)** The material facts as to the director’s or officer’s relationship or interest, and as to the contract or transaction, are disclosed or are known to the Board or the Board Committee, and the Board or Board Committee in good faith authorizes the contract or transaction by an affirmative vote of a majority of the disinterested directors, even though the disinterested directors be less than a quorum; or
-
 - **(b)** The contract or transaction is fair to this corporation as of the time it is authorized, approved, or ratified by the Board or Board Committee.
 
 **Section 5.2 Quorum.**  
@@ -178,11 +174,8 @@ Unless otherwise determined by resolution of the Board in particular cases, this
 As used in this Article, the following terms will have the following meanings:
 
 - **"Action"** means any threatened, pending, or completed action, suit, proceeding or inquiry (brought in the right of this corporation or otherwise), whether civil, criminal, administrative, or investigative, and whether formal or informal, including appeals arising from or in connection with the acts or omissions of this corporation or any member acting within the scope of his or her role with this corporation.
-
 - **"Eligible Person"** means: (1) any individual who is a former or current director or officer of this corporation; (2) any former or current director or officer of this corporation, who while a director or officer of this corporation, is or was serving at the request of this corporation as a director, officer, partner, trustee, employee, or agent of another corporation, partnership, joint venture, trust, or other enterprise, which includes, without limitation, employee benefit plans; and (3) the foregoing persons’ heirs, executors, guardians, administrators, assigns, and any other legal representatives.
-
 - **"Fines"** includes, without limitation, any excise taxes assessed on a person with respect to an employee benefit plan.
-
 - **"Indemnified Person"** means: any Eligible Person who was, or is, a party, or is threatened to be made a party to, or is involved in (including as a witness), any Action by reason of the fact that the person is an Eligible Person.
 
 **Section 7.2 Indemnification for Indemnified Persons.**  
