@@ -19,7 +19,7 @@ The current solutions are already making impact, and OSE as a complementary tool
 
 ### How to donate to OSE?
 
-People and organizations are welcome to donate at https://endowment.dev/#donate. All individuals who do this before the public launch of OSE will be credited as founding donors and get additional governing rights in case of $1000+/year donation (OSE membership).
+People and organizations are welcome to donate at https://endowment.dev/. All individuals who do this before the public launch of OSE will be credited as founding donors and get additional governing rights in case of $1000+/year donation (OSE membership).
 
 ### Why does OSE accept only individuals as founding donors?
 
