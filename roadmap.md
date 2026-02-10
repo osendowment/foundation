@@ -18,9 +18,9 @@ Key tasks to legally implement key OSE principles, ensure its community-driven g
 | [Membership policy](https://github.com/osendowment/foundation/blob/main/docs/policies/membership-policy.md)| ✅
 | [Investments of donations](https://github.com/osendowment/foundation?tab=readme-ov-file#investments)| ✅
 | [Dashboard for donors](https://stats.endowment.dev) | ✅
-| 501(c)3 charity status|⏳
-| Other key policies|
-| Finalized board of directors |
+| [501(c)3 charity status](https://github.com/osendowment/foundation/blob/main/docs/501c3/501c3-letter.pdf)|✅
+| Investment policy | ⏳
+| Finalized board of directors| ⏳
    
 ### Grant-making
 Key tasks to optimize the impact and efficiency of OSE's grant-making activities.﻿
@@ -48,10 +48,11 @@ Key tasks to increase the incoming flow of donations.﻿
 | [Landing page](https://github.com/osendowment/endowment.dev) | ✅
 | [Stablecoins](https://github.com/osendowment/foundation?tab=readme-ov-file#donation-methods)| ✅
 | [Non-USD donations](https://github.com/osendowment/foundation?tab=readme-ov-file#donation-methods) | ✅
+| Public stock donations | ✅
+| 501(c)3 platforms | ✅
 | Advanced website | ⏳
-| Stock donations | ⏳
-| Public GitHub repo | 
-| 501(c)3 platforms |
+| Public GitHub repo | ⏳ 
+| Private stock donations | 
 | API-based donations | 
 
 ## Long-term roadmap
