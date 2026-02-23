@@ -12,7 +12,7 @@ Key tasks to legally implement key OSE principles, ensure its community-driven g
 | [Initial board of directors](https://github.com/osendowment/foundation/blob/main/docs/incorporation/board-uwc.md)|✅
 | [Public GitHub repo](https://github.com/osendowment/foundation) | ✅
 | [Membership policy](https://github.com/osendowment/foundation/blob/main/docs/policies/membership-policy.md)| ✅
-| [Investments of donations](https://endowment.dev/endowment)| ✅
+| [Investments of donations](https://endowment.dev/endowment/#investing)| ✅
 | [Dashboard for donors](https://endowment.dev/community) | ✅
 | [501(c)(3) charity status](https://github.com/osendowment/foundation/blob/main/docs/501c3/501c3-letter.pdf)|✅
 | Investment policy | ⏳
@@ -25,8 +25,8 @@ Key tasks to optimize the impact and efficiency of OSE's grant-making activities
 | - | :----: |
 | [MVP for data-driven donations](https://kvinogradov.com/algo-sponsors/) | ✅
 | [Draft grant-making model](https://github.com/osendowment/model/) | ✅
-| [Select asset manager](https://endowment.dev/endowment) | ✅
-| [First endowment fund income](https://endowment.dev/endowment) | ✅
+| [Select asset manager](https://endowment.dev/endowment/#investing) | ✅
+| [First endowment fund income](https://endowment.dev/endowment/#investing) | ✅
 | Implemented model infra | ⏳
 | Finalized grant-making model | ⏳
 | First model-based grants |
@@ -37,12 +37,12 @@ Key tasks to increase the incoming flow of donations.
 | Target | Status |
 | - | :----: |
 | [Co-founding donors](https://endowment.dev/community) | ✅
-| [Bank wires (USD)](https://endowment.dev/#donors) | ✅
-| [Card payments](https://endowment.dev/#donors) | ✅
+| [Bank wires (USD)](https://every.org/osendowment/donate) | ✅
+| [Card payments](https://every.org/osendowment/donate) | ✅
 | [Website](https://endowment.dev/) | ✅
-| [Donation platforms](https://endowment.dev/#donors)| ✅
-| [Stablecoins / crypto](https://endowment.dev/#donors)| ✅
-| [Non-USD donations](https://endowment.dev/#donors) | ✅
+| [Donation platforms](https://every.org/osendowment/donate)| ✅
+| [Stablecoins / crypto](https://every.org/osendowment/donate)| ✅
+| [Non-USD donations](https://every.org/osendowment/donate) | ✅
 | Public stock donations | ✅
 | Private stock donations | ✅
 | 501(c)(3) platforms (DAF, etc.) | ✅
