@@ -3,7 +3,7 @@
 
 ![Endowment Fund](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.endowment.fund_size_k&prefix=%24&suffix=K&style=for-the-badge&label=Endowment%20Fund&color=green&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fendowment)
 ![Donors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.donors.total&style=for-the-badge&label=Donors&color=forestgreen&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fcommunity)
-![Members](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.donors.members&style=for-the-badge&label=Members&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fcommunity)
+![Members](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.donors.members&style=for-the-badge&label=Members&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fcommunity&x=1)
 
 🌐 <a href="https://endowment.dev">Website</a>
  ·
