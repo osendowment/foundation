@@ -80,16 +80,16 @@ Key tasks to increase the incoming flow of donations.
       <b>Grants</b>
     </td>
     <td>
-      First model approved<br/>
+      First model-related community meeting ✅<br/>
     </td>
     <td>
+      First model approved<br/>
       FOSS model-based index<br/>
       Full cycle for grant distribution<br/>
-      Second model approved<br/>
     </td>
     <td>
       Public impact studies<br/>
-      Third model approved<br/>
+      Second model approved<br/>
     </td>
   </tr>
   <tr>
@@ -101,8 +101,9 @@ Key tasks to increase the incoming flow of donations.
       $0.5-1M total donations ✅<br/>
     </td>
     <td>
+      Public launch with 501(c)(3) status<br/>
       Scaling in the dev community<br/>
-      First institutional donors<br/>
+      First institutional donors ✅<br/>
     </td>
     <td>
       Scaling in the tech community<br/>
