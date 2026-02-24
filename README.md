@@ -20,7 +20,7 @@
 The Open Source Endowment (OSE) aims to solve the [open source sustainability crisis](https://openpath.quest/2024/the-open-source-sustainability-crisis/) by
 providing maintainers of critical open source software with a source of funding that is sustainable, systemic, and scalable.
 
-- **🌱 Sustainable**: Provides a stable, long-term funding model, independent of the volatile corporate and personal budgets
+- **🌱 Sustainable**: Provides a stable, long-term funding, independent of the volatile corporate and personal budgets
 - **🔗 Systemic**: Supports the critical but underfunded projects that conventional models miss
 - **🚀 Efficient**: A lean, digital-first, community-led organization designed for maximum impact and transparency
 
