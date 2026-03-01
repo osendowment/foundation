@@ -1,21 +1,21 @@
 <!--<div align="center"><img src="/logo/web/icon-192.png?raw=true" width="70"></div>-->
 <h1>Open Source Endowment</h1>
 
-![Endowment Fund](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.endowment.fund_size_k&prefix=%24&suffix=K&style=for-the-badge&label=Endowment%20Fund&color=green&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fendowment)
-![Donors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.donors.total&style=for-the-badge&label=Donors&color=forestgreen&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fcommunity)
-![Members](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.donors.members&style=for-the-badge&label=Members&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fcommunity&x=1)
+![Endowment Fund](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.endowment.fund_size_k&prefix=%24&suffix=K&style=for-the-badge&label=Endowment%20Fund&color=green&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fendowment%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dfoundation%26utm_content%3Dbadge-fund)
+![Donors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.donors.total&style=for-the-badge&label=Donors&color=forestgreen&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fcommunity%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dfoundation%26utm_content%3Dbadge-donors)
+![Members](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdata.endowment.dev%2Fapi%2Fpublic%2Fstats&query=%24.donors.members&style=for-the-badge&label=Members&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fendowment.dev%2Fcommunity%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dfoundation%26utm_content%3Dbadge-members&x=1)
 
-🌐 <a href="https://endowment.dev">Website</a>
+🌐 <a href="https://endowment.dev?utm_source=github&utm_medium=readme&utm_campaign=foundation">Website</a>
  ·
-📚 <a href="https://endowment.dev/docs">Docs</a>
+📚 <a href="https://endowment.dev/docs?utm_source=github&utm_medium=readme&utm_campaign=foundation">Docs</a>
  ·
 💸 <a href="https://github.com/osendowment/model">Grantmaking model</a>
  ·
 📈 <a href="https://github.com/osendowment/foundation/blob/main/roadmap.md">Roadmap</a>
  ·
-❓ <a href="https://endowment.dev/faq">FAQ</a>
+❓ <a href="https://endowment.dev/faq?utm_source=github&utm_medium=readme&utm_campaign=foundation">FAQ</a>
  ·
-❤️ <a href="https://endowment.dev/#donate">Donate</a>
+❤️ <a href="https://endowment.dev/?utm_source=github&utm_medium=readme&utm_campaign=foundation&utm_content=donate#donate">Donate</a>
 
 The Open Source Endowment (OSE) aims to solve the [open source sustainability crisis](https://openpath.quest/2024/the-open-source-sustainability-crisis/) by
 providing maintainers of critical open source software with a source of funding that is sustainable, systemic, and scalable.
