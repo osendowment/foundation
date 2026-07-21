@@ -49,7 +49,7 @@ The aim of the minimum donation threshold is to ensure that decisions are made b
 
 ### Team
 
-OSE is run by a volunteer board, supported by staff and advisors.
+OSE is run by a group of passionate volunteers, and each board director is required to also be an OSE member:
 
 - **[Konstantin Vinogradov](https://kvinogradov.com)** — Chair of the Board. VC investor in open source, AI, and infrastructure software. Former General Partner at Runa Capital. Creator of the ROSS Index.
 - **[Amy Parker](https://www.linkedin.com/in/amy3parker/)** — Secretary, Board Director. VP, Major Gifts at the Signal Foundation. Former Deputy Executive Director at the OpenSSL Foundation and Director of the Wikipedia Endowment.
