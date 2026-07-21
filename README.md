@@ -55,10 +55,10 @@ OSE is run by a volunteer board, supported by staff and advisors. Board decision
 |-|-|-|
 |Konstantin Vinogradov|Chair of the Board, Founding Director|VC investor in open source, AI, and infrastructure software. Former General Partner at Runa Capital. Creator of the ROSS Index.|
 |Maxim Konovalov|Treasurer, Director|Co-founder and former CTO of Nginx. Former VP Engineering at F5. Long-time FreeBSD contributor.|
-|Amy Parker|Secretary, Director|Nonprofit fundraising and governance leader. Former Director of the Wikipedia Endowment. Former Director of Individual Giving at the Smithsonian and the New York Public Library.|
+|Amy Parker|Secretary, Director|VP, Major Gifts at the Signal Foundation. Former Deputy Executive Director at the OpenSSL Foundation and Director of the Wikipedia Endowment.|
+|Chad Whitacre|Director, Incorporator|Head of Open Source at Sentry. Leads the Open Source Pledge. Founded Gratipay.|
 |Jonathan Starr|Executive Director|Former Program Manager at NumFOCUS. Co-founder of SciOS and The Institute of Open Science Practices.|
 |Vlad-Stefan Harbuz|Board Advisor|Maintainer of the Open Source Pledge. Core developer at thanks.dev.|
-|Chad Whitacre|Incorporator. Secretary and Director, 2025-2026|Head of Open Source at Sentry. Leads the Open Source Pledge. Founded Gratipay.|
 
 ## Investments
 
