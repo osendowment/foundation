@@ -47,6 +47,19 @@ Individuals contributing at least $1,000/year to the endowment fund qualify as O
 
 The aim of the minimum donation threshold is to ensure that decisions are made by people who have personally committed to OSE's goals and have skin in the game.
 
+### Team
+
+OSE is run by a volunteer board, supported by staff and advisors. Board decisions and minutes are published in [docs/board](https://github.com/osendowment/foundation/tree/main/docs/board).
+
+|Person|Role|Background|
+|-|-|-|
+|Konstantin Vinogradov|Chair of the Board, Founding Director|VC investor in open source, AI, and infrastructure software. Former General Partner at Runa Capital. Creator of the ROSS Index.|
+|Maxim Konovalov|Treasurer, Director|Co-founder and former CTO of Nginx. Former VP Engineering at F5. Long-time FreeBSD contributor.|
+|Amy Parker|Secretary, Director|Nonprofit fundraising and governance leader. Former Director of the Wikipedia Endowment. Former Director of Individual Giving at the Smithsonian and the New York Public Library.|
+|Jonathan Starr|Executive Director|Former Program Manager at NumFOCUS. Co-founder of SciOS and The Institute of Open Science Practices.|
+|Vlad-Stefan Harbuz|Board Advisor|Maintainer of the Open Source Pledge. Core developer at thanks.dev.|
+|Chad Whitacre|Incorporator. Secretary and Director, 2025-2026|Head of Open Source at Sentry. Leads the Open Source Pledge. Founded Gratipay.|
+
 ## Investments
 
 All donations to the Endowment are put into diversified investments, and only the yearly income from these investments is used to fund grants. This approach supports long-term planning and sustainable funding for OSS.
