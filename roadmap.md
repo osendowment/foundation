@@ -27,7 +27,7 @@ Key tasks to optimize the impact and efficiency of OSE's grant-making activities
 | [Draft grant-making model](https://github.com/osendowment/model/) | ✅
 | [Select asset manager](https://endowment.dev/endowment/#investing) | ✅
 | [First endowment fund income](https://endowment.dev/endowment/#investing) | ✅
-| Implemented model infra | ⏳
+| Implemented model infra | ✅
 | Finalized grant-making model | ⏳
 | First model-based grants |
 
@@ -101,7 +101,7 @@ Key tasks to increase the incoming flow of donations.
       $0.5-1M total donations ✅<br/>
     </td>
     <td>
-      Public launch with 501(c)(3) status<br/>
+      Public launch with 501(c)(3) status ✅<br/>
       Scaling in the dev community<br/>
       First institutional donors ✅<br/>
     </td>
