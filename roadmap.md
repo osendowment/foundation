@@ -28,7 +28,7 @@ Key tasks to optimize the impact and efficiency of OSE's grant-making activities
 | [Select asset manager](https://endowment.dev/endowment/#investing) | ✅
 | [First endowment fund income](https://endowment.dev/endowment/#investing) | ✅
 | Implemented model infra | ✅
-| Finalized grant-making model | ⏳
+| Finalized grant-making model | ✅
 | First model-based grants |
 
 ### Fundraising
