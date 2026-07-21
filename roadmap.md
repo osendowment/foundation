@@ -83,7 +83,7 @@ Key tasks to increase the incoming flow of donations.
       First model-related community meeting ✅<br/>
     </td>
     <td>
-      First model approved<br/>
+      First model approved ✅<br/>
       FOSS model-based index<br/>
       Full cycle for grant distribution<br/>
     </td>
