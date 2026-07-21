@@ -49,7 +49,7 @@ The aim of the minimum donation threshold is to ensure that decisions are made b
 
 ### Team
 
-OSE is run by a volunteer board, supported by staff and advisors. Board decisions and minutes are published in [docs/board](https://github.com/osendowment/foundation/tree/main/docs/board).
+OSE is run by a volunteer board, supported by staff and advisors.
 
 - **[Konstantin Vinogradov](https://kvinogradov.com)** — Chair of the Board. VC investor in open source, AI, and infrastructure software. Former General Partner at Runa Capital. Creator of the ROSS Index.
 - **[Amy Parker](https://www.linkedin.com/in/amy3parker/)** — Secretary, Board Director. VP, Major Gifts at the Signal Foundation. Former Deputy Executive Director at the OpenSSL Foundation and Director of the Wikipedia Endowment.
@@ -57,6 +57,8 @@ OSE is run by a volunteer board, supported by staff and advisors. Board decision
 - **[Chad Whitacre](https://openpath.quest)** — Board Director. Former Head of Open Source at Sentry and former leader of the Open Source Pledge. Founded Gratipay.
 - **[Jonathan Starr](https://www.linkedin.com/in/jonathan-starr-b04032284/)** — Executive Director. Former Program Manager at NumFOCUS. Co-founder of SciOS and The Institute of Open Science Practices.
 - **[Vlad-Stefan Harbuz](https://vlad.website)** — Board Advisor. Director of the Open Source Pledge. Core developer at thanks.dev.
+
+Board decisions and minutes are published in [docs/board](https://github.com/osendowment/foundation/tree/main/docs/board).
 
 ## Investments
 
