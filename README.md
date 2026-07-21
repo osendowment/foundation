@@ -56,7 +56,7 @@ OSE is run by a volunteer board, supported by staff and advisors. Board decision
 - **[Maxim Konovalov](https://www.linkedin.com/in/maxim/)** — Treasurer, Director. Co-founder and former CTO of Nginx. Former VP Engineering at F5. Long-time FreeBSD contributor.
 - **[Chad Whitacre](https://www.linkedin.com/in/chadwhitacre/)** — Director, Incorporator. Head of Open Source at Sentry. Leads the Open Source Pledge. Founded Gratipay.
 - **[Jonathan Starr](https://www.linkedin.com/in/jonathan-starr-b04032284/)** — Executive Director. Former Program Manager at NumFOCUS. Co-founder of SciOS and The Institute of Open Science Practices.
-- **[Vlad-Stefan Harbuz](https://vlad.website)** — Board Advisor. Maintainer of the Open Source Pledge. Core developer at thanks.dev.
+- **[Vlad-Stefan Harbuz](https://vlad.website)** — Board Advisor. Director of the Open Source Pledge. Core developer at thanks.dev.
 
 ## Investments
 
