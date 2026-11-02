@@ -29,7 +29,7 @@ Key tasks to optimize the impact and efficiency of OSE's grant-making activities
 | [First endowment fund income](https://endowment.dev/endowment/#investing) | ✅
 | Implemented model infra | ✅
 | Finalized grant-making model | ✅
-| First model-based grants |
+| [First model-based grants](https://endowment.dev/grants/) | ✅
 
 ### Fundraising
 Key tasks to increase the incoming flow of donations.
@@ -85,7 +85,7 @@ Key tasks to increase the incoming flow of donations.
     <td>
       First model approved ✅<br/>
       FOSS model-based index<br/>
-      Full cycle for grant distribution<br/>
+      Full cycle for grant distribution ✅<br/>
     </td>
     <td>
       Public impact studies<br/>

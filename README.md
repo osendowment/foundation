@@ -31,7 +31,7 @@ OSE is the world's first endowment dedicated to open source. It is founded by an
 |Step|Description|
 |-|-|
 |Fundraising|The Open Source Endowment Foundation raises money from individual and institutional donors, including companies and foundations.|
-|Investments|All donations are invested in a diversified portfolio managed by a professional US-based asset manager. These investments provide yearly returns (target ~ 7-8% APY), which are used to advance the OSE mission.|
+|Investments|All donations are invested in a diversified portfolio managed by a professional US-based asset manager. These investments provide yearly returns (target ~ 6-8% APY), which are used to advance the OSE mission.|
 |Selection|Using an open, data-driven [model](https://github.com/osendowment/model) co-developed with OSE Members and the open source community, we identify underfunded critical open source projects as grantees. Most of the endowment's returns (target ~ 5%/year) are distributed as grants.|
 |Monitoring|We regularly measure the impact of our grants on selected open source projects and the global software supply chain's sustainability. This data is used to continuously improve our model and increase efficiency.|
 
@@ -51,12 +51,12 @@ The aim of the minimum donation threshold is to ensure that decisions are made b
 
 OSE is run by a volunteer board of OSE members, supported by staff and advisors:
 
-- **[Konstantin Vinogradov](https://kvinogradov.com)** — Chair of the Board. VC investor in open source, AI, and infrastructure software. Former General Partner at Runa Capital. Creator of the ROSS Index.
+- **[Konstantin Vinogradov](https://kvinogradov.com)** — Chair of the Board. Founder and Managing Partner at Varion Ventures, investing in open source, AI, and infrastructure software. Former General Partner at Runa Capital. Creator of the ROSS Index.
 - **[Amy Parker](https://www.linkedin.com/in/amy3parker/)** — Secretary, Board Director. VP, Major Gifts at the Signal Foundation. Former Deputy Executive Director at the OpenSSL Foundation and Director of the Wikipedia Endowment.
 - **[Maxim Konovalov](https://www.linkedin.com/in/maxim/)** — Treasurer, Board Director. Co-founder and former CTO of Nginx. Former VP Engineering at F5. Long-time FreeBSD contributor.
-- **[Chad Whitacre](https://openpath.quest)** — Board Director. Former Head of Open Source at Sentry and former leader of the Open Source Pledge. Founded Gratipay.
 - **[Jonathan Starr](https://www.linkedin.com/in/jonathan-starr-b04032284/)** — Executive Director. Former Program Manager at NumFOCUS. Co-founder of SciOS and The Institute of Open Science Practices.
-- **[Vlad-Stefan Harbuz](https://vlad.website)** — Board Advisor. Director of the Open Source Pledge. Core developer at thanks.dev.
+- **[Vlad Miricioiu](https://vlad.website)** — Board Advisor. Executive Director of the Software Stewardship Lab and Director of the Open Source Pledge. Core developer at thanks.dev.
+- **[Chad Whitacre](https://openpath.quest)** — Former Board Director and Secretary (2025–2026). Former Head of Open Source at Sentry and former leader of the Open Source Pledge. Founded Gratipay.
 
 Board decisions and minutes are published in [docs/board](https://github.com/osendowment/foundation/tree/main/docs/board).
 
@@ -64,5 +64,7 @@ Board decisions and minutes are published in [docs/board](https://github.com/ose
 
 All donations to the Endowment are put into diversified investments, and only the yearly income from these investments is used to fund grants. This approach supports long-term planning and sustainable funding for OSS.
 
-At the start, OSE invested in US Treasury bonds, which are very low-risk and earn ~5% per year. The portfolio is now being managed by a professional investment manager. The board chose [Infinite Giving](https://www.infinitegiving.com/), specializing in US nonprofits, as our outsourced CIO (Chief Investment Officer), targeting a 7-8% return with a 5% annual spend rate on grants.
+At the start, OSE invested in US Treasury bonds, which are very low-risk and earn ~5% per year. In February 2026, the board moved the funds into a diversified 70/30 stock/bond portfolio managed by [Infinite Giving](https://www.infinitegiving.com/), our outsourced CIO (Chief Investment Officer) specializing in US nonprofits. The portfolio targets a 6-8% return with a 5% annual spend rate on grants.
+
+The [first grant round](https://endowment.dev/grants/?utm_source=github&utm_medium=readme&utm_campaign=foundation) (August 2026) distributed $10,000 equally among 4 critical open source projects.
 
