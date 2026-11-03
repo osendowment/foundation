@@ -41,6 +41,8 @@ OSE is the world's first endowment dedicated to open source. It is founded by an
 
 The Open Source Endowment Foundation is a US 501(c)(3) tax-exempt public charity (EIN 33-3502715), incorporated on February 14, 2025. Donations to the Foundation are [tax-deductible](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions) for US donors to the full extent permitted by law.
 
+IRS filings: [501(c)(3) determination letter](docs/501c3/501c3-letter.pdf) · [Form 990 (2025)](docs/reports/irs-form-990-2025.pdf). All documents: [endowment.dev/docs](https://endowment.dev/docs?utm_source=github&utm_medium=readme&utm_campaign=foundation).
+
 ### Members
 
 Individuals contributing at least $1,000/year to the endowment fund qualify as OSE Members. Members advise the OSE board on strategic matters, such as the grant-making model, and appoint community-nominated board directors. These rights are legally defined in our [membership policy](https://github.com/osendowment/foundation/blob/main/docs/policies/membership-policy.md).
