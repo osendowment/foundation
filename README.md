@@ -70,3 +70,7 @@ At the start, OSE invested in US Treasury bonds, which are very low-risk and ear
 
 The [first grant round](https://endowment.dev/grants/?utm_source=github&utm_medium=readme&utm_campaign=foundation) (August 2026) distributed $10,000 equally among 4 critical open source projects.
 
+
+## License
+
+Content in this repository is licensed under [CC BY 4.0](LICENSE). You may share and adapt it for any purpose, with credit to Open Source Endowment Foundation.
